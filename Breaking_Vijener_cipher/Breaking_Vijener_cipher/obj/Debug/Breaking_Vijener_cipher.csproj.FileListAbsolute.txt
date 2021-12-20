@@ -1,0 +1,7 @@
+C:\Users\kolya\source\repos\Breaking_Vijener_cipher\Breaking_Vijener_cipher\bin\Debug\Breaking_Vijener_cipher.exe.config
+C:\Users\kolya\source\repos\Breaking_Vijener_cipher\Breaking_Vijener_cipher\bin\Debug\Breaking_Vijener_cipher.exe
+C:\Users\kolya\source\repos\Breaking_Vijener_cipher\Breaking_Vijener_cipher\bin\Debug\Breaking_Vijener_cipher.pdb
+C:\Users\kolya\source\repos\Breaking_Vijener_cipher\Breaking_Vijener_cipher\obj\Debug\Breaking_Vijener_cipher.csprojAssemblyReference.cache
+C:\Users\kolya\source\repos\Breaking_Vijener_cipher\Breaking_Vijener_cipher\obj\Debug\Breaking_Vijener_cipher.csproj.CoreCompileInputs.cache
+C:\Users\kolya\source\repos\Breaking_Vijener_cipher\Breaking_Vijener_cipher\obj\Debug\Breaking_Vijener_cipher.exe
+C:\Users\kolya\source\repos\Breaking_Vijener_cipher\Breaking_Vijener_cipher\obj\Debug\Breaking_Vijener_cipher.pdb
